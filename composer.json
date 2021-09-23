@@ -24,8 +24,8 @@
     ],
     "require": {
         "php": "^7.2.5",
-        "illuminate/support": "^7.0",
-        "illuminate/database": "^7.0",
+        "illuminate/support": "^8.0",
+        "illuminate/database": "^8.0",
         "xety/configurator": "^1.0"
     },
     "require-dev": {
